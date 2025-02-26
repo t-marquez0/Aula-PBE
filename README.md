@@ -2,7 +2,7 @@
 
 ## Sobre mim 😀
 
-Sou formada em técnico em Eletroeletrônica pelo SENAI e atualmente estou no técnico em Desenvolvimento de Sistemas no SENAI integrado com o aprendiz técnico em Soluções Digitais na BOSCH. Estou cursando o primeiro sementre do Tecnólogo de Análise e Desenvolvimento de Sistemas no SENAI "Roberto Mange". 
+Sou formada em técnico em Eletroeletrônica pelo SENAI e atualmente estou no técnico em Desenvolvimento de Sistemas no SENAI integrado com o aprendiz técnico em Soluções Digitais na BOSCH. Estou cursando o primeiro sementre do Tecnólogo de Análise e Desenvolvimento de Sistemas na Faculdade de tecnologia SENAI "Roberto Mange". 
 
 
 
